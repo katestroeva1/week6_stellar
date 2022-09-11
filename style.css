@@ -1,3 +1,4 @@
+
 body {
     background: rgb(219,118,132);
 background: linear-gradient(180deg, rgba(96,80,148,1) 16%, rgba(219,118,132,1) 89%);
@@ -140,4 +141,4 @@ a {
         .footer {
             display: none;
         }
-    }
+}
